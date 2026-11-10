@@ -3,8 +3,8 @@ class SshLocker < Formula
 
   desc "Terminal app that keeps SSH connections in an encrypted vault"
   homepage "https://github.com/PtrLarsson/ssh-locker"
-  url "https://github.com/PtrLarsson/ssh-locker/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "42043587652df87888b6dd0f431af0af75c5bbe1f61c98b8ffb5e0afd650ee13"
+  url "https://github.com/PtrLarsson/ssh-locker/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "4b647d256ee0f7290558e562b6e2e5d57718edf8ad7d0ce69de57fae5987e057"
   license "MIT"
 
   depends_on "cryptography"
